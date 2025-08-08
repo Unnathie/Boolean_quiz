@@ -20,10 +20,4 @@ It’s perfect for anyone learning Python basics, Boolean logic, or just wanting
 - Score updates after every question.  
 - Accepts answers in any case (`True`, `true`, `FALSE`, etc.).  
 
----
 
-## 🕹️ How to Play  
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/Unnathie/Boolean_quiz.git
-   cd Boolean_quiz
